@@ -1,3 +1,7 @@
+# ref
+
+https://dev.classmethod.jp/articles/remix-and-auth0/
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
@@ -51,4 +55,5 @@ rm -rf app
 # copy your app over
 cp -R ../my-old-remix-app/app app
 ```
+
 # auth0-remix
